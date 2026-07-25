@@ -1,0 +1,28 @@
+[
+  {
+    "online": "67",
+    "maxonline": "300",
+    "color": "8B00FF",
+    "x2": "false",
+    "key": "94",
+    "name": "NEIZZIR DM22",
+    "firstname": "NEIZZIR DM22",
+    "secondname": "",
+    "url": "194.135.36.88",
+    "ip": "194.135.36.88",
+    "port": "7777"
+  },
+  {
+    "online": "25",
+    "maxonline": "50",
+    "color": "76ABDE",
+    "x2": "true",
+    "key": "1424",
+    "name": "DazDM",
+    "firstname": "DazDM",
+    "secondname": "",
+    "url": "ice.blackrussia.online",
+    "ip": "185.207.214.14",
+    "port": "4285"
+  }
+]
